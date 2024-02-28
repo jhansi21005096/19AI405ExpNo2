@@ -78,9 +78,10 @@ traversedpath=dfs(graph,start,visited,path)
 print(traversedpath)
 
 ```
-<hr>
-<h3>Sample Input</h3>
-<hr>
+
+
+### Sample Input
+
 8 9 <BR>
 A B <BR>
 A C <BR>
@@ -91,29 +92,23 @@ C G <BR>
 D F <BR>
 G F <BR>
 F H <BR>
-<hr>
-<h3>Sample Output</h3>
-<hr>
+
+### Sample Output
 ['A', 'B', 'E', 'D', 'C', 'G', 'F', 'H']
 
-<hr>
 
-<hr>
-<h3>Sample Input</h3>
-<hr>
+
+### Sample Input
+
 5 5 <BR>
 0 1 <BR>
 0 2 <BR>
 0 3 <BR>
 2 3 <BR>
 2 4 <BR>
-<hr>
-<h3>Sample Output</h3>
-<hr>
+### Sample Output
 ['0', '1', '2', '3', '4']
 
-<hr>
-<h3>Result:</h3>
-<hr>
-<p>Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
 
+### Result:
+Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.
